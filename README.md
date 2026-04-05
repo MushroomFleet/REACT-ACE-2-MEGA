@@ -108,6 +108,8 @@ Music volume and station selection persist across sessions. Context-aware crossf
 ## 🏗️ ZeroFamily Architecture
 
 Every procedural system in the game shares the same ZeroBytes hashing foundation. All produce identical output for identical input — no `Math.random()`, no network, no database.
+- REPO: [ZERO-FAMILY-SKILL](https://github.com/MushroomFleet/ZeroBytes-Family-Skills)
+- 'npx skills add MushroomFleet/ZeroBytes-Family-Skills'
 
 | System | Domain |
 |--------|--------|
@@ -138,6 +140,12 @@ Every procedural system in the game shares the same ZeroBytes hashing foundation
 | Procedural Audio | Web Audio API (ZBEngine) |
 | Build Tool | Vite |
 | Language | TypeScript |
+
+---
+
+BUILT WITH TINS
+- 'npx skills add MushroomFleet/TINS-skill'
+![TINS-inside](https://raw.githubusercontent.com/MushroomFleet/TINS-directory/main/TINS-inside.png)
 
 ---
 
