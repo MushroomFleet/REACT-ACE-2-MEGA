@@ -143,12 +143,6 @@ Every procedural system in the game shares the same ZeroBytes hashing foundation
 
 ---
 
-BUILT WITH TINS
-- 'npx skills add MushroomFleet/TINS-skill'
-![TINS-inside](https://raw.githubusercontent.com/MushroomFleet/TINS-directory/main/TINS-inside.png)
-
----
-
 ## 💿 Installation
 
 ### Recommended: MSI Installer (Windows x64)
@@ -197,3 +191,9 @@ If you use this codebase in your research or project, please cite:
 [🚀 DOWNLOAD & PLAY](https://github.com/MushroomFleet/REACT-ACE-2-MEGA/releases)
 
 </div>
+
+BUILT WITH TINS
+- 'npx skills add MushroomFleet/TINS-skill'
+![TINS-inside](https://raw.githubusercontent.com/MushroomFleet/TINS-directory/main/TINS-inside.png)
+
+---
