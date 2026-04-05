@@ -7,6 +7,8 @@
 
 A desktop space combat game set inside an infinite deterministic megastructure generated in real-time from a single seed. Built with React Three Fiber, Three.js, Zustand, and Tauri v2. Every wall, bridge, spire, biome, quest, explosion, sound effect, enemy voice, and skill tree node is derived procedurally — no stored maps, no pre-built levels, no randomness. The position IS the seed.
 
+[Technical guide here](https://scuffedepoch.com/ra2-mega)
+
 <div align="center">
 
 ### [📦 DOWNLOAD MSI INSTALLER](https://github.com/MushroomFleet/REACT-ACE-2-MEGA/releases) | [📖 FULL FEATURE HANDBOOK](https://github.com/MushroomFleet/REACT-ACE-2-MEGA/blob/main/feature-list.md)
