@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="RA2-MEGA" src="https://raw.githubusercontent.com/MushroomFleet/REACT-ACE-2-MEGA/refs/heads/main/react-ace2mega.png" />
 </div>
 
 # REACT-ACE-2 MEGA
