@@ -63,6 +63,7 @@ You pilot a transforming mecha/flight ship inside the **Koch Megastructure** —
 | Lock Target | R |
 | Deploy Funnels | 1 |
 | Recall Funnels | 2 |
+| Static Discharge | 3 |
 | Pause | ESC |
 
 ---
