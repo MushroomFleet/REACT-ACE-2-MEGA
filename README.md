@@ -151,17 +151,6 @@ Every procedural system in the game shares the same ZeroBytes hashing foundation
 
 Download the latest `.msi` from [Releases](https://github.com/MushroomFleet/REACT-ACE-2-MEGA/releases) and run it. The installer includes all game assets, music files, and the Tauri runtime.
 
-### Development Setup
-
-```bash
-git clone https://github.com/MushroomFleet/REACT-ACE-2-MEGA.git
-cd REACT-ACE-2-MEGA
-bun install
-bun run tauri dev
-```
-
-Requires: Node.js 18+ or Bun, Rust toolchain, eSpeak-NG (for voice synthesis).
-
 ---
 
 ## 📚 Citation
