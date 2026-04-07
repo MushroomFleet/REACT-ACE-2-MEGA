@@ -52,8 +52,7 @@ You pilot a transforming mecha/flight ship inside the **Koch Megastructure** —
 | Vertical Up / Down | Q / E |
 | Afterburner | Tab (hold) |
 | Dodge | Shift + W/A/S/D |
-| Zero Throttle | X |
-| Match Target Speed | F |
+| Flight/Mecha Transform | F |
 
 ### Combat
 | Action | Input |
